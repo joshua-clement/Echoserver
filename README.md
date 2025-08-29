@@ -87,7 +87,7 @@ httpd.serve_forever()
 
 ## OUTPUT:
 ### CLIENT OUTPUT:
-
+![clientop](./img/ex01-client.png)
 ### SERVER OUTPUT:
 
 ## RESULT:
