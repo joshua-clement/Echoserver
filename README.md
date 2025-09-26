@@ -89,6 +89,6 @@ httpd.serve_forever()
 ### CLIENT OUTPUT:
 ![clientop](./img/ex01-client.png)
 ### SERVER OUTPUT:
-
+![echoserver](./img/ex01-echoserver.png)
 ## RESULT:
 The program is executed succesfully
